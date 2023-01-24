@@ -1,0 +1,28 @@
+.container{
+  max-width: 1140px;
+  margin: 50px auto;
+}
+
+.card{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-title{
+  margin-left: 30px;
+}
+
+.year{
+  padding: 5px 15px ;
+  background-color:#142850;
+  border-radius: 30px;
+}
+
+.dash{
+  margin-left: 50px;
+  color: rgb(67, 78, 110);
+}
+
+.lorem{
+  width: 60%;
+}
